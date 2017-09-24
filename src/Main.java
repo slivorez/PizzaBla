@@ -74,11 +74,11 @@ class ClientSpeaker {
     }
 
     private void curierDelivery(int distance) {
-        // while (obj.getCourierCount() != 0){
+        while (obj.getCourierCount() != 0){
         Thread thread = new Thread(new Runners(distance));
         System.out.println("Курьер будет ехать к Вам " + distance * 5 + "минут");
         thread.start();
-        //}
+        }
     }
 }
 
