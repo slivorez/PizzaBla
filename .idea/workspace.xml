@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="408ce68f-312b-4a06-8aba-dc23cfa63851" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PizzaBank/com/shlak/DijkstraAlgorithm.class" afterPath="$PROJECT_DIR$/out/production/PizzaBank/com/shlak/DijkstraAlgorithm.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PizzaBank/ClientSpeaker.class" afterPath="$PROJECT_DIR$/out/production/PizzaBank/ClientSpeaker.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shlak.txt" afterPath="$PROJECT_DIR$/Shlak.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/shlak/DijkstraAlgorithm.java" afterPath="$PROJECT_DIR$/src/com/shlak/DijkstraAlgorithm.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -325,7 +322,7 @@
       <workItem from="1505924625916" duration="6032000" />
       <workItem from="1506158402202" duration="7324000" />
       <workItem from="1506238256328" duration="6414000" />
-      <workItem from="1506245344862" duration="3702000" />
+      <workItem from="1506245344862" duration="4089000" />
     </task>
     <task id="LOCAL-00001" summary="Hren'">
       <created>1506164917530</created>
@@ -348,11 +345,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506246389517</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="F..k my brain, legsin my mouth!!! This crap does not work">
+      <created>1506263643496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1506263643497</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23472000" />
+    <option name="totallyTimeSpent" value="23859000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,7 +409,8 @@
     <MESSAGE value="Hren'" />
     <MESSAGE value="Problem with exceptions" />
     <MESSAGE value="problem with exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem with exceptions" />
+    <MESSAGE value="F..k my brain, legsin my mouth!!! This crap does not work" />
+    <option name="LAST_COMMIT_MESSAGE" value="F..k my brain, legsin my mouth!!! This crap does not work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
